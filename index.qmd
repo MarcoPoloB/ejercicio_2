@@ -4,4 +4,7 @@ title: "ejercicio_2"
 
 This is a Quarto website.
 
+para Galia textil
+
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
