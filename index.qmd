@@ -1,6 +1,39 @@
 ---
-title: "ejercicio_2"
+title: "Marco Polo B"
+image: mypic.png
+resources: resume.pdf
+about:
+    template: trestles
+    image-shape: round
+    image-width: 15em
+    links:
+      - text: Email
+        icon: envelope  
+        href: mailto:jmarcopolob@gmail.com
+      - text: github
+        icon: github
+        href: https://github.com/MarcoPoloB
+      - text: Youtube
+        icon: youtube
+        href: https://youtu.be/mTT44giaTtg
+      - text: resume
+        icon: file-text
+        href: resume.pdf
+      - text: Main
+        icon: home
+        href: detalles.html
+id: ppc
 ---
+
+:::{#ppc}
+
+adoro a mis perros
+
+![son asombrosos](dawgs.png)
+
+somos muy afortunados por estos peluditos
+:::
+
 
 This is a Quarto website.
 

@@ -1,0 +1,16 @@
+---
+title: "detalles"
+format: html
+---
+## mi historia favorita es la historia sin fin 
+
+- Artax
+- atreyu
+
+
+## mi segunda pelicula es el silencio de los inocentes
+
+- dr Anibal lecter
+- agente especial 
+
+

@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ejercicio_2",
+    "title": "Marco Polo B",
     "section": "",
-    "text": "This is a Quarto website.\nPara Galia textil\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "adoro a mis perros\n\n\n\nson asombrosos\n\n\nsomos muy afortunados por estos peluditos\n\nThis is a Quarto website.\nPara Galia textil\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "detalles.html",
+    "href": "detalles.html",
+    "title": "detalles",
+    "section": "",
+    "text": "Artax\natreyu"
+  },
+  {
+    "objectID": "detalles.html#mi-historia-favorita-es-la-historia-sin-fin",
+    "href": "detalles.html#mi-historia-favorita-es-la-historia-sin-fin",
+    "title": "detalles",
+    "section": "",
+    "text": "Artax\natreyu"
+  },
+  {
+    "objectID": "detalles.html#mi-segunda-pelicula-es-el-silencio-de-los-inocentes",
+    "href": "detalles.html#mi-segunda-pelicula-es-el-silencio-de-los-inocentes",
+    "title": "detalles",
+    "section": "mi segunda pelicula es el silencio de los inocentes",
+    "text": "mi segunda pelicula es el silencio de los inocentes\n\ndr Anibal lecter\nagente especial"
   }
 ]
