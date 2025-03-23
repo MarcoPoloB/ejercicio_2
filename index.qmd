@@ -1,7 +1,6 @@
 ---
 title: "Marco Polo B"
 image: mypic.png
-resources: resume.pdf
 about:
     template: trestles
     image-shape: round
